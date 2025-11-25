@@ -1,0 +1,41 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+header{
+    align-self: center;
+    color: aliceblue;
+    text-align: center;
+}
+header > h1 {font-size: 100px;}
+header > h2 {font-size: 50px;}
+main{
+    margin-top: -50px;
+    height: 300px;
+    width: 300px;
+    align-self: center;
+    text-align: center;
+    background-color:#ffb3b3;
+    color: #000;
+    border-radius: 50px;
+}form > input {
+    height: 20px;
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+main > h2 {
+    margin-bottom: 80px;
+}
+
+
+
+
+.upper-contaimer{
+display: flex;
+}
+footer {
+    align-self: center;
+}

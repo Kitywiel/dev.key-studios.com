@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 100vh;
+    background-image: url(../img/background-effect-2.svg), url(../img/background-effect-1.svg);
+    background-size: 400px;
+    background-position: left 10px top 50px, right 200px bottom 20px;
+    background-repeat:round;
+    background-color: #660000;
+}
+a{
+    text-decoration: none;
+}
